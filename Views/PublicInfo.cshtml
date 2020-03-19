@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "";
+    Html.AddCssFileParts("~/Plugins/ExternalAuth.Google/Content/googlestyles.css");    
+}
+
+
+<div class="flex w-1/2 pr-0">
+     <a asp-controller="GoogleAuthentication" asp-action="login" asp-route-returnurl="@Context.Request.Query["ReturnUrl"]" class="google-btn">
+        <div class="connect-social google">
+            <div class="google-icon"></div>
+            <div class="google-text text"><span>@T("Plugin.ExternalAuth.Google.LoginWithGoogle")</span></div>
+        </div>
+    </a>
+</div>

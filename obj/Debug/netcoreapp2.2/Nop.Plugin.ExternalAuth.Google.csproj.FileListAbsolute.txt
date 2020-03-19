@@ -1,0 +1,16 @@
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\dataSettings.json
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Content\googlestyles.css
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\logo.jpg
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\plugin.json
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Views\Configure.cshtml
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Views\PublicInfo.cshtml
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Views\_ViewImports.cshtml
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.deps.json
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.dll
+D:\Development\.Net Core\DogoStore\src\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.pdb
+D:\Development\.Net Core\DogoStore\src\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Google.AssemblyInfoInputs.cache
+D:\Development\.Net Core\DogoStore\src\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Google.AssemblyInfo.cs
+D:\Development\.Net Core\DogoStore\src\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Google.csproj.CopyComplete
+D:\Development\.Net Core\DogoStore\src\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Google.dll
+D:\Development\.Net Core\DogoStore\src\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Google.pdb
+D:\Development\.Net Core\DogoStore\src\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Google.csprojAssemblyReference.cache
